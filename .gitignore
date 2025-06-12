@@ -1,0 +1,16 @@
+# Ignore specific folder
+/media/
+
+# Ignore all PNG files anywhere
+*.png
+
+# Optionally ignore all media files (add more as needed)
+*.jpg
+*.jpeg
+*.gif
+*.mp4
+*.mov
+*.webm
+*.wav
+*.mp3
+*.svg
