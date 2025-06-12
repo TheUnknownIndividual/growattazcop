@@ -14,3 +14,4 @@
 *.wav
 *.mp3
 *.svg
+.DS_Store
